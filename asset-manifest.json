@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Travel-Website-Frontend/static/css/main.cf3f826e.css",
+    "main.js": "/Travel-Website-Frontend/static/js/main.dad7e17e.js",
+    "static/js/787.c901fb7c.chunk.js": "/Travel-Website-Frontend/static/js/787.c901fb7c.chunk.js",
+    "static/media/video.mp4": "/Travel-Website-Frontend/static/media/video.d25f244bc909f38e0c5d.mp4",
+    "static/media/Bali Island.jpg": "/Travel-Website-Frontend/static/media/Bali Island.39deec3654e95dfe3155.jpg",
+    "static/media/video2.mp4": "/Travel-Website-Frontend/static/media/video2.170d6ea1a8888f1e4b45.mp4",
+    "static/media/Angkor Wat.jpg": "/Travel-Website-Frontend/static/media/Angkor Wat.6267d2fe02686d39939c.jpg",
+    "static/media/Cinque Terre.jpg": "/Travel-Website-Frontend/static/media/Cinque Terre.611e7ea8853c3e01ea12.jpg",
+    "static/media/Cappadocia.jpg": "/Travel-Website-Frontend/static/media/Cappadocia.3a1119a48d7f58107cbc.jpg",
+    "static/media/Guanajuato.jpg": "/Travel-Website-Frontend/static/media/Guanajuato.98d1e7c3d25b3b5168e1.jpg",
+    "static/media/Machu Picchu.jpg": "/Travel-Website-Frontend/static/media/Machu Picchu.e70c7955b8e006254481.jpg",
+    "static/media/Great Barrier Reef.jpg": "/Travel-Website-Frontend/static/media/Great Barrier Reef.2b55e17999379fd5835a.jpg",
+    "static/media/borabora.jpg": "/Travel-Website-Frontend/static/media/borabora.67c0c16be14662856702.jpg",
+    "static/media/Taj Mahal.jpg": "/Travel-Website-Frontend/static/media/Taj Mahal.eea6a6285763f2f90103.jpg",
+    "index.html": "/Travel-Website-Frontend/index.html",
+    "main.cf3f826e.css.map": "/Travel-Website-Frontend/static/css/main.cf3f826e.css.map",
+    "main.dad7e17e.js.map": "/Travel-Website-Frontend/static/js/main.dad7e17e.js.map",
+    "787.c901fb7c.chunk.js.map": "/Travel-Website-Frontend/static/js/787.c901fb7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3f826e.css",
+    "static/js/main.dad7e17e.js"
+  ]
+}
